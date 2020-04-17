@@ -3,7 +3,7 @@ package edw.spring.edwpetclinic.model;
 /**
  * @author Eduard.Cojocaru
  */
-public class Person {
+public class Person extends BaseEntity {
     private String firstName;
     private String lastName;
 
